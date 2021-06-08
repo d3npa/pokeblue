@@ -1,8 +1,9 @@
 _MomWakeUpText::
 	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	line "All children"
+	cont "leave home some"
+	cont "day. It said so"
+	cont "on TV."
 
 	para "PROF.OAK, next"
 	line "door, is looking"
