@@ -39,7 +39,7 @@ _BillsHouseText_1e86f::
 
 _BillThankYouText::
 	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
+	line "Thanks a lot! I"
 	cont "owe you one!"
 
 	para "So, did you come"
@@ -62,7 +62,7 @@ _SSTicketReceivedText::
 
 _SSTicketNoRoomText::
 	text "You've got too"
-	line "much stuff, bud!"
+	line "much stuff!"
 	done
 
 _BillsHouseText_1e8cb::
@@ -81,7 +81,7 @@ _BillsHouseText_1e8cb::
 	done
 
 _BillsHouseText_1e8da::
-	text "BILL: Look, bud,"
+	text "BILL: Look,"
 	line "just check out"
 	cont "some of my rare"
 	cont "#MON on my PC!"

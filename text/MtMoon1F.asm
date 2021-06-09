@@ -1,7 +1,7 @@
 _MtMoon1BattleText2::
 	text "WHOA! You shocked"
 	line "me! Oh, you're"
-	cont "just a kid!"
+	cont "just a little girl!"
 	done
 
 _MtMoon1EndBattleText2::
@@ -79,7 +79,7 @@ _MtMoon1AfterBattleText6::
 	done
 
 _MtMoon1BattleText7::
-	text "Suspicious men"
+	text "Suspicious people"
 	line "are in the cave."
 	cont "What about you?"
 	done
